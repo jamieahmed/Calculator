@@ -5,12 +5,12 @@
  * results in the mathematical calculation for those two numbers.
  * 
  * For example: If the boxes contain 4 and 2, pressing the "+" button should 
- * put a 6 in the display box. If the "-" button is pressed, 2 should be
- * displayed. If the "*" button is pressed, 8 should be displayed. If the "/"
- * button is pressed, 2 should be displayed.
+ * display the number 6. If the "-" button is pressed, 2 should be displayed.
+ * If the "*" button is pressed, 8 should be displayed. If the "/" button
+ * is pressed, 2 should be displayed.
  * 
  * There are bounuses as well:
  * EASY BONUS:  If the result is odd, change it's color to salmon.
  * MEDIUM BONUS:  Use a single event listener to accomplish this task, rather
- * than 4 of them.
+ * than 5 of them.
  */
